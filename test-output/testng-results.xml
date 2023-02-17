@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T18:27:38 IST" name="Suite" finished-at="2023-02-17T18:27:53 IST" duration-ms="14748">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T18:27:38 IST" name="Test" finished-at="2023-02-17T18:27:53 IST" duration-ms="14748">
+      <class name="Flipkart.ReddySyam.StandAlonetest">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:Flipkart.ReddySyam.StandAlonetest@2657d4dd]" started-at="2023-02-17T18:27:38 IST" name="LaunchApplication" finished-at="2023-02-17T18:27:42 IST" duration-ms="3787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="order()[pri:0, instance:Flipkart.ReddySyam.StandAlonetest@2657d4dd]" started-at="2023-02-17T18:27:42 IST" name="order" finished-at="2023-02-17T18:27:53 IST" duration-ms="10708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Flipkart.ReddySyam.StandAlonetest@2657d4dd]" started-at="2023-02-17T18:27:53 IST" name="Teardown" finished-at="2023-02-17T18:27:53 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Flipkart.ReddySyam.StandAlonetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
